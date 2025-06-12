@@ -21,7 +21,7 @@
 | 📁 Project | 📌 Description | 💻 Tools Used |
 |-----------|----------------|---------------|
 | [Bank of England Speech Sentiment & Predictive Modelling](https://v-da-wb.github.io/portfolio/storytelling.html) | NLP + ML model to analyse central bank speech sentiment and predict market indicators | Python (scikit-learn, transformers, statsmodels), NLP |
-| [Loyalty Program ROI (Entertainment Merchandiser)]([link-to-repo](https://v-da-wb.github.io/portfolio/storytelling.html) | Clustering & regression analysis on loyalty programme data | Python, R |
+| [Loyalty Program ROI (Entertainment Merchandiser)](https://v-da-wb.github.io/portfolio/storytelling.html) | Clustering & regression analysis on loyalty programme data | Python, R |
 | [NHS England Capacity and Utilisation](https://v-da-wb.github.io/portfolio/python.html) | Utilisation insights from open NHS datasets to support resource planning | Python, Sentiment Analysis, Visualisation |
 | [Customer Purchasing Behaviour (Retail Store)](https://v-da-wb.github.io/portfolio/tableau.html) | Assessment of customers' purchasing behaviour to plan a future marketing campaign | Excel (Power Query), SQL, Tableau |
 
